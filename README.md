@@ -20,7 +20,4 @@ A regularly updated collection of 300+ clickpacks available ingame.
 
 # Discord community
 
-Join the Discord server for support, clickpacks, video sharing, ...
-
-- https://discord.gg/clickbot
-- https://discord.gg/BRVVVzxESu
+Join the Discord a
